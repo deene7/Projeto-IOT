@@ -1,0 +1,15 @@
+# Ambientes virtuais e cache Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais
+.env
+
+# Logs e arquivos temporários SQLite
+*.log
+*.db-journal
+*.db-wal
+*.db-shm
